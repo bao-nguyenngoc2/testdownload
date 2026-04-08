@@ -46,13 +46,13 @@ function filterLogs(logsJSON, minWatchTime) {
     return JSON.stringify(result);
 }
 
-//function sum(a, b) {
-//    return a + b;
-//}
-//
-//function multiply(a, b) {
-//    return a * b;
-//}
+function sum(a, b) {
+   return a + b;
+}
+
+function multiply(a, b) {
+   return a * b;
+}
 
 var MathUtils = {
     sum: function(a, b) {
