@@ -70,3 +70,7 @@ function multiply1(a, b) {
 function multiply2(a, b) {
    return a * b;
 }
+
+function multiply3(a, b) {
+   return a * b;
+}
