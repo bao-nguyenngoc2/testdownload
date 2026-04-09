@@ -62,3 +62,7 @@ var MathUtils = {
         return a * b;
     }
 };
+
+function multiply1(a, b) {
+   return a * b;
+}
