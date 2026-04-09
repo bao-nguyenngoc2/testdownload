@@ -126,3 +126,10 @@ function calculate5() {
 
    return result1 + result2;
 }
+
+function calculate6() {
+   var result1 = sum(2, 3);
+   var result2 = multiply(4, 5);
+
+   return result1 + result2;
+}
